@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prismadefenders",
+  "private_key_id": "66990ac3a809269399da77ad7ee7390c6b627be5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDesfLUCTimShr\ngODaoWXxzUu7ZbkFXH3mpnsXDW0qgjpqn0S0UzhihxzBh7iDZB/TYZlNNTYWGk0K\nu2zICpCsu5eYG6A/n6OESgz2Rdahs5RvQNPpjt0sJ4mRYjL18+sG6IzPPlxrWC1D\nb9wuNpAaYonyzagz1m1jWnn0yE4Zq9SpCwrPKQ3ObFPgSFlxoVjGdcBag3xGI/Yk\nZq1hQfht+w1apj8P9xnv6djOQgIfWsgKc1ujfb6bn4iWzBY7pTL+Kx5jxrGS/7J1\ndrQTEvW5705BoQgMdJjYAdmip7bQVKW8xayJ/qVVvCQHbIWeTVBJv5R8EcgYaiEe\ntm+PM+zLAgMBAAECggEAFNU6gswFSlMJUD+5dwN5cmYvOocSS2R6lIDMoH3RUxTy\n9dcIgvFVkoaUxXlZ7ELY83W02Vog7AUcjdbAtqcNmSMa+l6DWxR/4ELmE78Iq04Q\ntTSjAQK1RpXmHuToynaW5zMUgqfCQLxygnvi6tfszqsOyZ4qXW/uU4badYB9dlW+\ndhM5BPGRmkJ4gKsYx+s5h0xWHBz7SLHrJ7nrEVlM8Yms0haMULwBkt+TlJsL223X\n2wSRn68sn55rOa4scdu1BHb5932dv0yJI/SpJVplogNa0hlGfUDJEAs78sOCLb0U\nC3LyRr5B+lhgwP8hF/lxLsJ7li6hCetliWOo4f2kRQKBgQDvsOBdZgm8GlB0wo/g\nF1ssy9sNtLLPC7GJcWjnwH7/du/+34IUtlcEhKmVQrRs8hdX4s9HGVxmdBWsyT1H\nvwkTdRp+WlwQuvZ/mfLQgUjbhmDPAE39cDsI3wvk7zHS1YObZ4dgFIzR7x4iaTXj\nnXn88AWXSNYfh3IfPxzdUzumzQKBgQDQx8wAEw8P4b0Yv0gUqtrIGYtFPdjDKI2W\n9E2zVBuIZHvEufNGQC04s5RUCDjhRLto8HtH3Lv4aDqRAnzlr8olIw+epSssh67e\n3k7eBCApw4KXUb3AkiwGqOtA648SrzYQFiC/mI564Y4mg3Fm5aokAZuOAipnw0Is\n6VLuhRvx9wKBgQCYGuG2w4sH8JcAEXvmFExKuC8RmosiMuR+ORb+grzU9zBDyKiu\n5iuAdYN8cfE3dcX0gr1Q/DoT1jTvCmG2BvgGffjLGCJ2h37n6NUbFgAbN0J1+laD\nr1X3Qjw1EsnGZrJ2yxMwmLnoe1rfMW7+O6/vII4bvCANsBFu3Mk/dpNTPQKBgCUi\ntKV6vl4bz++77k1Gyp129a++PXURHIYyNDPmjPMotF8cmCnxtll0j7iWsc9X02Hq\nDHOOzpxzpZ8vaxnLt8/9OYUFafWEuNUJg8u3viTPksXpky/SkCQrHZUxkQRIx/v6\ng56wuv8eaZNuI9iily3KX2nV9sb4Eyg75DVq1bqnAoGBAM5JduCYnyP0Pg/bzxxO\nVp9X+HTPu89kjkpiBAcIL4ah7AwIGmhahgy3w6mp9rReiYZ0E846NcHtmKg+WLvY\nhWWM8W1n/biQfeeRZ3SE7bvzKV9pxCfeoALoo4xlquu6fcLs6KxMgQlaUzJBBMU4\n9fnSMQ9swI3LPd6/YwKI/8Lu\n-----END PRIVATE KEY-----\n",
+  "client_email": "prisma-cloud-serv-soqib@prismadefenders.iam.gserviceaccount.com",
+  "client_id": "116721287218421661366",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prisma-cloud-serv-soqib%40prismadefenders.iam.gserviceaccount.com"
+}
